@@ -1,5 +1,6 @@
-# DSAusingC-c-
-This is my first repository.
+# DSAusingC-c++
+
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -20,3 +21,7 @@ int main(){
     }
 
 }
+
+
+
+
